@@ -22,8 +22,8 @@
          <div>
             <head>INGREDIENTS</head>
 
-         <list><item cert="high" n="4" xml:space="default">4 oz (1 box) <objectName>unsweetened chocolate</objectName></item>         
-         <item cert="high" n=".66" xml:space="default">⅔ cup <objectName>butter</objectName></item>
+         <list><item cert="high" n="4" xml:space="default">4 oz (1 box) <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="chocolate" xml:space="default">unsweetened chocolate</objectName></item>         
+         <item cert="high" n=".66" xml:space="default">⅔ cup <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="dairy" xml:space="default">butter</objectName></item>
          <item cert="high" n="1.5" xml:space="default">1 ⅓ cup <objectName>all purpose flour</objectName></item>         
          <item>1 teaspoon <objectName>baking powder</objectName></item>         
          <item>½ teaspoon <objectName>salt</objectName></item>         
@@ -37,8 +37,8 @@
          <list><item><eventName>Preheat <objectName>oven</objectName> to 350.</eventName></item>
          <item><eventName>Grease a 9×13″ <objectName>pan</objectName> with butter or cooking spray.</eventName></item>
          <item><eventName>Make sure <objectName>oven rack</objectName> is in the middle of the oven.</eventName></item>
-         <item><eventName>In <objectName>small microwave safe bowl</objectName>, melt butter and chocolate in microwave</eventName> <note>(or over double boiler).</note></item> <item>Allow to cool slightly.</item>
-         <item>Measure flour, salt, and baking powder into another small bowl.</item>
+         <item><eventName>In <objectName>small microwave safe bowl</objectName>, melt butter and chocolate in microwave</eventName> <note>(or over double boiler).</note></item> <item><eventName>Allow to cool slightly.</eventName></item>
+         <item><eventName>Measure flour, salt, and baking powder into another small bowl.</eventName></item>
          <item>In larger mixing bowl, beat eggs thoroughly. A whisk is fine.</item>
          <item>Gradually add sugar.</item>
          <item>Blend chocolate mixture and vanilla into egg/sugar mixture.</item>
