@@ -34,7 +34,7 @@
          
          <div>
             <head>DIRECTIONS</head>
-         <list><item>Preheat oven to 350.</item>
+         <list><item><eventName>Preheat <objectName>oven</objectName> to 350.</eventName></item>
          <item>Grease a 9×13″ pan with butter or cooking spray.</item>
          <item>Make sure oven rack is in the middle of the oven.</item>
          <item>In small microwave safe bowl, melt butter and chocolate in microwave (or over double boiler).</item> <item>Allow to cool slightly.</item>
