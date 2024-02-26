@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>HUMN100: Class Personography</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created from original research by members of CWRC/CSÉC unless
+					otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text>
+		<body>
+			<div>
+				<head>Nikita Bityutskiy</head>
+				<listPerson>
+					<person>
+						<persName>Bityutskiy, Nikita</persName>
+						<birth>
+							<date>October 9, 2003</date>
+							<placeName>Tashkent, Uzbekistan</placeName>
+						</birth>
+					</person>
+				</listPerson>
+				<listRelation>
+					
+				</listRelation>
+				<p/>
+			</div>
+			<div>
+				<head>some person</head>
+				<listPerson>
+					
+				</listPerson>
+				<listRelation>
+					
+				</listRelation>
+				<p/>
+			</div>
+		</body>
+	</text>
+</TEI>
