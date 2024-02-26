@@ -37,7 +37,13 @@
 			<div>
 				<head>Zach Blumenfeld</head>
 				<listPerson>
-					
+					<person>
+						<persName>Blumenfeld, Zach</persName>
+						<birth>
+							<date>February 2, 2005</date>
+							<placeName>Doylestown, PA</placeName>
+						</birth>
+					</person>
 				</listPerson>
 				<listRelation>
 					
