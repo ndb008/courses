@@ -115,11 +115,7 @@
                   <persName>Claire Cahoon</persName>
                   <birth>
                      <date>March 16</date>
-                     <placeName>Charlottesville, VA</placeName> </birth><occupation>Academics</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                     <placeName>Charlottesville, VA</placeName> </birth><occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Academics Majoring in English and Minoring in Computer Science and Art History</occupation> </person></listPerson><p>I have synesthesia for colors and a rambunctious cat</p>
          </div>
          <div>
             <listPerson>
