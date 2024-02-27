@@ -15,23 +15,17 @@
    <text>
       <body>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10001" xml:space="default">
                <person>
-                  <persName>Nikita Bityutskiy </persName><birth><date>October 9, 2003</date> <placeName>Tashkent, Uzbekistan</placeName>
-                  </birth>
-                  <occupation>Student Majoring in Computer Science Engineering Minoring in American Politics</occupation> <affiliation>Men's Swim and Dive</affiliation></person></listPerson><p>I wanted to play baseball but screwed up my shoulder</p>
+                  <persName>Nikita Bityutskiy </persName><birth><date>October 9, 2003</date> <placeName>Tashkent, Uzbekistan</placeName> </birth><occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Majoring in Computer Science and Engineering </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Minoring in American Politics</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="athletics" xml:space="default">Men's Swim and Dive</affiliation></person></listPerson><p>I wanted to play baseball but screwed up my shoulder</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10002" xml:space="default">
                <person>
-                  <persName>NAME2</persName><birth><date>DATE</date>
-                     <placeName>PLACE</placeName>
+                  <persName>Zach Blumenfeld </persName><birth><date>February 2, 2005</date>
+                     <placeName>Doylestown, PA</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Majoring in Computer Science Engineering</occupation> </person></listPerson><p>I'm also left handed.</p>
          </div>
          <div>
             <listPerson>
