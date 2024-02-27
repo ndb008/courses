@@ -110,7 +110,7 @@
                      <placeName>Abu Dhabi, UAE</placeName> </birth><occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Studetn Majoring in Undecided</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">DSAC</affiliation></person></listPerson><p/>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10015" xml:space="default">
                <person>
                   <persName>Claire Cahoon</persName>
                   <birth>
@@ -120,13 +120,9 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME12</persName>
-                  <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                  <persName>Diane Jakacki</persName> <birth> <placeName>Englewood Cliffs, NJ</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Academics Majoring in English and History and Minoring in Theatre and Anthropology</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
             <p>FUN FACT</p>
