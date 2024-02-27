@@ -59,19 +59,13 @@
                   <affiliation cert="high" evidence="internal" instant="unknown" type="athletics" xml:space="default">Crew</affiliation></person></listPerson><p>I have 2 dogs and a cat.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10007" xml:space="default">
                <person>
-                  <persName>NAME5</persName>
+                  <persName>Abby Hausner</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>October 8, 2004</date> <placeName>Ridgewood, NJ</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-
-            <p>FUN FACT</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Major in Economics </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Major in Political Science</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="athletics" xml:space="default">Club Basketball</affiliation></person></listPerson><p>I'm going to Scotland in May.</p>
          </div>
          <div>
             <listPerson>
