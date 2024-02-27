@@ -86,32 +86,22 @@
                   <occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Major in Computer Science</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">Korean Culture</affiliation></person></listPerson><p/>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10010" xml:space="default">
                <person>
-                  <persName>NAME8</persName>
-                  <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                  <persName>Leo McMenimen</persName> <birth><date>November 25, 2o03</date>
+                     <placeName>Sayerville, NJ</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Computer Science</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">ACM </affiliation><affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">Active Minds</affiliation></person></listPerson><p>I have a metal rod screwed into my right arm.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10013" xml:space="default">
                <person>
-                  <persName>NAME9</persName>
+                  <persName>Erin Wiehn</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>February 26, 2005</date>
+                     <placeName>Newton, MA</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Major in Economics </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Minor in Marketing</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">Core Marketing</affiliation></person></listPerson><p>I'm left handed.</p>
          </div>
          <div>
             <listPerson>
