@@ -68,18 +68,14 @@
                   <occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Major in Economics </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Major in Political Science</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="athletics" xml:space="default">Club Basketball</affiliation></person></listPerson><p>I'm going to Scotland in May.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10008" xml:space="default">
                <person>
-                  <persName>NAME6</persName>
+                  <persName>Dylan Lange</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>June 1, 2004</date>
+                     <placeName>Indio, CA</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Major in Computer Science</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="society" xml:space="default">ACM </affiliation><affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">SAE</affiliation></person></listPerson><p>I have 15 cats.</p>
          </div>
          <div>
             <listPerson>
