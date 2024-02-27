@@ -106,16 +106,8 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME10</persName>
-                  <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
-                  </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                  <persName>Peyton Wynkoop</persName> <birth><date>August 21, 2005</date>
+                     <placeName>Abu Dhabi, UAE</placeName> </birth><occupation>Studetn Majoring in Undecided</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">DSAC</affiliation></person></listPerson><p/>
          </div>
          <div>
             <listPerson>
