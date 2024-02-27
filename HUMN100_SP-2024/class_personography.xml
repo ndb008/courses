@@ -104,20 +104,18 @@
                   <occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Major in Economics </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Minor in Marketing</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">Core Marketing</affiliation></person></listPerson><p>I'm left handed.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10014" xml:space="default">
                <person>
                   <persName>Peyton Wynkoop</persName> <birth><date>August 21, 2005</date>
-                     <placeName>Abu Dhabi, UAE</placeName> </birth><occupation>Studetn Majoring in Undecided</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">DSAC</affiliation></person></listPerson><p/>
+                     <placeName>Abu Dhabi, UAE</placeName> </birth><occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Studetn Majoring in Undecided</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">DSAC</affiliation></person></listPerson><p/>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME11</persName>
+                  <persName>Claire Cahoon</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
-                  </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                     <date>March 16</date>
+                     <placeName>Charlottesville, VA</placeName> </birth><occupation>Academics</occupation>
                   <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
