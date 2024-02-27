@@ -37,23 +37,15 @@
                   <occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Major in Creative Writing </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Major in Comparative and Digital Humanities</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="athletics" xml:space="default">Rock Climbing </affiliation><affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">CW Club </affiliation><affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">Film Club </affiliation><affiliation cert="high" evidence="internal" instant="unknown" type="academic" xml:space="default">Arts Merit Scholar</affiliation></person></listPerson><p>I was a competitive fencer.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10005" xml:space="default">
                <person>
-                  <persName>NAME4</persName>
+                  <persName>Junbo Feng</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>July 12, 2005</date>
+                     <placeName>Guangdong, China</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
-            <p>FUN FACT</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="curricular" xml:space="default">Majoring in Computer Science Engineering</occupation>
+                  <affiliation cert="high" evidence="internal" instant="unknown" type="athletics" xml:space="default">Cycling </affiliation><affiliation cert="high" evidence="internal" instant="unknown" type="athletics" xml:space="default">E-Sports </affiliation><affiliation cert="high" evidence="internal" instant="unknown" type="athletics" xml:space="default">Frisbee </affiliation></person></listPerson><p>I am a music producer.</p>
          </div>
          <div>
             <listPerson>
