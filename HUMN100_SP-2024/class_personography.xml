@@ -107,7 +107,7 @@
             <listPerson cert="high" default="true" xml:id="humn10014" xml:space="default">
                <person>
                   <persName>Peyton Wynkoop</persName> <birth><date>August 21, 2005</date>
-                     <placeName>Abu Dhabi, UAE</placeName> </birth><occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Studetn Majoring in Undecided</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">DSAC</affiliation></person></listPerson><p/>
+                     <placeName>Abu Dhabi, UAE</placeName> </birth><occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Student Majoring in Undecided</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="social" xml:space="default">DSAC</affiliation></person></listPerson><p/>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10015" xml:space="default">
