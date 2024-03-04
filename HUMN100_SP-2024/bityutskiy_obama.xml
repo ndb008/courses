@@ -1647,6 +1647,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303201357662",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T01:13:57.662Z",
+	"dcterms:modified": "2024-03-04T01:13:57.662Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ndb008",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Nikita Bityutskiy"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303201357662#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303201357662#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[16]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "the need in order to stay on top of the race"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
    
@@ -1783,13 +1862,12 @@
 
 
 
-            <p>The path towards sustainable energy sources will be long and sometimes difficult. But
+            <p>The path towards sustainable energy sources will be <time cert="high" evidence="internal" instant="unknown" precision="high" type="duration" unit="cm" xml:space="default">long and sometimes difficult</time>. But
                <placeName key="United States of America" ref="http://www.wikidata.org/entity/Q30">America</placeName> cannot resist this transition, we must lead it. We cannot cede to other
                nations the technology that will power new jobs and new industries, we must claim its
-               promise. That’s how we will maintain our economic vitality and our national treasure
+               promise.<note type="annotation">the need in order to stay on top of the race</note> That’s how we will maintain our economic vitality and our national treasure
                -- our forests and waterways, our crop lands and snow-capped peaks. That is how we
-               will preserve our planet, commanded to our care by <persName>God</persName>. That’s what will lend meaning
-               to the creed our fathers once declared.</p>
+               will preserve our planet, commanded to our care by <persName>God</persName>. That’s what will <rs>lend meaning to the creed our fathers once declared.</rs></p>
 
 
 
