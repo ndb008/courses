@@ -31,10 +31,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20240303191756294",
+	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?date_annotation_20240303191756294",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T00:17:56.294Z",
-	"dcterms:modified": "2024-03-04T00:17:56.294Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ndb008",
 		"@type": [
@@ -45,9 +44,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240303191756294#Target",
+		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?date_annotation_20240303191756294#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -58,7 +58,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240303191756294#Selector",
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?date_annotation_20240303191756294#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/date"
 		}
@@ -108,10 +108,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20240303192141812",
+	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?date_annotation_20240303192141812",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T00:21:41.812Z",
-	"dcterms:modified": "2024-03-04T00:21:41.812Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ndb008",
 		"@type": [
@@ -122,9 +121,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240303192141812#Target",
+		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?date_annotation_20240303192141812#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -135,7 +135,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240303192141812#Selector",
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?date_annotation_20240303192141812#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/date"
 		}
@@ -185,10 +185,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240303192448296",
+	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192448296",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T00:24:48.296Z",
-	"dcterms:modified": "2024-03-04T00:24:48.296Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ndb008",
 		"@type": [
@@ -199,9 +198,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240303192448296#Target",
+		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192448296#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -212,7 +212,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240303192448296#Selector",
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192448296#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[8]/note"
 		}
@@ -263,10 +263,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240303192511002",
+	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192511002",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T00:25:11.002Z",
-	"dcterms:modified": "2024-03-04T00:25:11.002Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ndb008",
 		"@type": [
@@ -277,9 +276,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240303192511002#Target",
+		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192511002#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -290,7 +290,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240303192511002#Selector",
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192511002#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[8]/note[2]"
 		}
@@ -341,10 +341,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240303192554817",
+	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192554817",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T00:25:54.817Z",
-	"dcterms:modified": "2024-03-04T00:25:54.817Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ndb008",
 		"@type": [
@@ -355,9 +354,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240303192554817#Target",
+		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192554817#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -368,7 +368,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240303192554817#Selector",
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192554817#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[8]/note[3]"
 		}
@@ -419,10 +419,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240303192631448",
+	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192631448",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T00:26:31.448Z",
-	"dcterms:modified": "2024-03-04T00:26:31.448Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ndb008",
 		"@type": [
@@ -433,9 +432,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240303192631448#Target",
+		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192631448#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -446,7 +446,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240303192631448#Selector",
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192631448#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/note"
 		}
@@ -497,10 +497,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240303192721247",
+	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192721247",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T00:27:21.247Z",
-	"dcterms:modified": "2024-03-04T00:27:21.247Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ndb008",
 		"@type": [
@@ -511,9 +510,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240303192721247#Target",
+		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192721247#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -524,7 +524,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240303192721247#Selector",
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192721247#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/note[2]"
 		}
@@ -575,10 +575,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240303192817230",
+	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192817230",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T00:28:17.230Z",
-	"dcterms:modified": "2024-03-04T00:28:17.230Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ndb008",
 		"@type": [
@@ -589,9 +588,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240303192817230#Target",
+		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192817230#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -602,7 +602,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240303192817230#Selector",
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192817230#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/note[3]"
 		}
@@ -653,10 +653,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240303192919827",
+	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192919827",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T00:29:19.827Z",
-	"dcterms:modified": "2024-03-04T00:29:19.827Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ndb008",
 		"@type": [
@@ -667,9 +666,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240303192919827#Target",
+		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192919827#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -680,7 +680,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240303192919827#Selector",
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192919827#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[10]/note"
 		}
@@ -689,6 +689,85 @@
 		"@type": "oa:TextualBody",
 		"dc:format": "text/plain",
 		"rdf:value": "initiative"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303195638962",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T00:56:38.962Z",
+	"dcterms:modified": "2024-03-04T00:56:38.962Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ndb008",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Nikita Bityutskiy"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303195638962#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303195638962#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[10]/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Looks to try to find unity within the nation"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -783,8 +862,8 @@
                recovery has begun. (Applause.) America’s possibilities are limitless, for we possess
                all the qualities that this world without boundaries demands: youth and drive<note type="annotation">initiative</note>;
                diversity and openness; an endless capacity for risk and a gift for reinvention. My
-               fellow Americans, we are made for this moment, and we will seize it -- so long as we
-               seize it together. (Applause.) </p>
+               fellow <persName>Americans</persName>, we are made for this moment, and we will seize it -- so long as we
+               seize it together.<note type="annotation">Looks to try to find unity within the nation</note> (Applause.) </p>
 
 
 
