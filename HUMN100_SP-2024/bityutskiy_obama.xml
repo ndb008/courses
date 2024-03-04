@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader><fileDesc><titleStmt><title>Title</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><p>Information about the source</p></sourceDesc></fileDesc><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?date_annotation_20240303191756294",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T00:17:56.294Z",
+	"dcterms:modified": "2024-03-04T00:17:56.294Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ndb008",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Nikita Bityutskiy"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?date_annotation_20240303191756294#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?date_annotation_20240303191756294#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1776"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?date_annotation_20240303192141812",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T00:21:41.812Z",
+	"dcterms:modified": "2024-03-04T00:21:41.812Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ndb008",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Nikita Bityutskiy"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?date_annotation_20240303192141812#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?date_annotation_20240303192141812#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1776"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?note_annotation_20240303192448296",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T00:24:48.296Z",
+	"dcterms:modified": "2024-03-04T00:24:48.296Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ndb008",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Nikita Bityutskiy"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "undefined?note_annotation_20240303192448296#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?note_annotation_20240303192448296#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[8]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "assertion"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?note_annotation_20240303192511002",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T00:25:11.002Z",
+	"dcterms:modified": "2024-03-04T00:25:11.002Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ndb008",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Nikita Bityutskiy"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "undefined?note_annotation_20240303192511002#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?note_annotation_20240303192511002#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[8]/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "assertion"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?note_annotation_20240303192554817",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T00:25:54.817Z",
+	"dcterms:modified": "2024-03-04T00:25:54.817Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ndb008",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Nikita Bityutskiy"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "undefined?note_annotation_20240303192554817#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?note_annotation_20240303192554817#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[8]/note[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "assertion"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?note_annotation_20240303192631448",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T00:26:31.448Z",
+	"dcterms:modified": "2024-03-04T00:26:31.448Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ndb008",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Nikita Bityutskiy"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "undefined?note_annotation_20240303192631448#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?note_annotation_20240303192631448#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[9]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "core values"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?note_annotation_20240303192721247",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T00:27:21.247Z",
+	"dcterms:modified": "2024-03-04T00:27:21.247Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ndb008",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Nikita Bityutskiy"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "undefined?note_annotation_20240303192721247#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?note_annotation_20240303192721247#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[9]/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "assertion"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?note_annotation_20240303192817230",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T00:28:17.230Z",
+	"dcterms:modified": "2024-03-04T00:28:17.230Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ndb008",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Nikita Bityutskiy"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "undefined?note_annotation_20240303192817230#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?note_annotation_20240303192817230#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[9]/note[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "initiative"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?note_annotation_20240303192919827",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T00:29:19.827Z",
+	"dcterms:modified": "2024-03-04T00:29:19.827Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ndb008",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Nikita Bityutskiy"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "undefined?note_annotation_20240303192919827#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?note_annotation_20240303192919827#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[10]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "initiative"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
+      
+   
+   <text>
+      <body>
+         <div>
+            <head>Barack Obama Inaurural Address, 2013</head>
+            <salute><persName cert="high" evidence="internal" full="yes" instant="unknown" type="politician" xml:space="default">Vice President Biden</persName>, <persName cert="high" evidence="internal" full="yes" instant="unknown" type="court" xml:space="default">Mr. Chief Justice</persName>, <persName cert="high" evidence="internal" full="yes" instant="unknown" type="politician" xml:space="default">members of the United States Congress</persName>,
+               <persName cert="high" evidence="internal" full="yes" instant="unknown" type="citizen" xml:space="default">distinguished guests</persName>, and <persName cert="high" evidence="internal" full="yes" instant="unknown" type="citizen" xml:space="default">fellow citizens</persName>: </salute>
+
+
+
+            <p>Each time we gather to inaugurate a <persName cert="high" evidence="internal" full="yes" instant="unknown" type="politician" xml:space="default">President</persName> we bear witness to the enduring
+               strength of our <title cert="high" level="a" type="document" xml:space="default">Constitution</title>. We affirm the promise of our democracy. We recall that
+               what binds this nation together is not the colors of our skin or the tenets of our
+               faith or the origins of our names. What makes us exceptional -- what makes us
+               <name cert="high" evidence="internal" full="yes" instant="unknown" type="citizen" xml:space="default">American</name> -- is our allegiance to an idea articulated in a declaration made more than
+               two centuries ago:</p>
+
+            <quote>“We hold these truths to be self-evident, that all men are created equal; that
+               they are endowed by their <persName>Creator</persName> with certain unalienable rights; that among these
+               are life, liberty, and the pursuit of happiness.” </quote>
+
+
+
+            <p>Today we continue a never-ending journey to bridge the meaning of those words with
+               the realities of our time. For history tells us that while these truths may be
+               self-evident, they’ve never been self-executing; that while freedom is a gift from
+               <persName>God</persName>, it must be secured by <persName>His people</persName> here on Earth. (Applause.) <date when="1776">The patriots of 1776</date>
+               did not fight to replace the tyranny of a king with the privileges of a few or the
+               rule of a mob. They gave to us <orgName type="citizens">a republic, a government of</orgName>, and by, and for the
+               people, entrusting each generation to keep safe our founding creed. </p>
+
+
+
+            <p>And for <date when="1776">more than two hundred years</date>, we have. </p>
+
+
+
+            <p> Through blood drawn by lash and blood drawn by sword, we learned that no union
+               founded on the <rs cert="high" type="value" xml:space="default"><rs>principles of liberty and equality</rs></rs> could survive half-slave and
+               half-free. <rs cert="high" type="value" xml:space="default">We made ourselves anew, and vowed to move forward together.</rs></p>
+
+
+
+            <p>Together, we determined that a modern economy requires railroads and highways to
+               speed travel and commerce, schools and colleges to train our workers. </p>
+
+
+
+            <p>Together, we discovered that a free market only thrives when there are rules to
+               ensure competition and fair play. </p>
+
+
+
+            <p>Together, we resolved that a great nation must care for the vulnerable, and protect
+               its people from life’s worst hazards and misfortune.</p>
+
+
+
+            <p>Through it all, we have never relinquished our skepticism of central authority<note type="annotation">assertion</note>, nor
+               have we succumbed to the fiction that all society’s ills can be cured through
+               government alone<note type="annotation">assertion</note>. Our celebration of initiative and enterprise, our insistence on
+               hard work and personal responsibility<note type="annotation">assertion</note>, these are constants in our character.</p>
+
+
+
+            <p>But we have always understood that when times change, so must we; that fidelity to
+               our founding principles<note type="annotation">core values</note> requires new responses to new challenges; that preserving our
+               individual freedoms ultimately requires collective action<note type="annotation">assertion</note>. For the American people
+               can no more meet the demands of today’s world by acting alone than American soldiers
+               could have met the forces of <orgName type="correlations">fascism or communism with muskets and militias.</orgName> No
+               single person can train all the math and science teachers we’ll need to equip our
+               children for the future, or build the roads and networks and research labs that will
+               bring new jobs and businesses to our shores. Now, more than ever, we must do these
+               things together, as one nation and one people.<note type="annotation">initiative</note> (Applause.) </p>
+
+
+
+            <p>This generation of <persName>Americans</persName> has been tested by crises that steeled our resolve and
+               proved our resilience. A decade of war is now ending. (Applause.) An economic
+               recovery has begun. (Applause.) America’s possibilities are limitless, for we possess
+               all the qualities that this world without boundaries demands: youth and drive<note type="annotation">initiative</note>;
+               diversity and openness; an endless capacity for risk and a gift for reinvention. My
+               fellow Americans, we are made for this moment, and we will seize it -- so long as we
+               seize it together. (Applause.) </p>
+
+
+
+            <p>For we, the people, understand that our country cannot succeed when a shrinking few
+               do very well and a growing many barely make it. (Applause.) We believe that America’s
+               prosperity must rest upon the broad shoulders of a rising middle class. We know that
+               America thrives when every person can find independence and pride in their work; when
+               the wages of honest labor liberate families from the brink of hardship. We are true
+               to our creed when a little girl born into the bleakest poverty knows that she has the
+               same chance to succeed as anybody else, because she is an American; she is free, and
+               she is equal, not just in the eyes of God but also in our own. (Applause.)</p>
+
+
+
+            <p>We understand that outworn programs are inadequate to the needs of our time. So we
+               must harness new ideas and technology to remake our government, revamp our tax code,
+               reform our schools, and empower our citizens with the skills they need to work
+               harder, learn more, reach higher. But while the means will change, our purpose
+               endures: a nation that rewards the effort and determination of every single American.
+               That is what this moment requires. That is what will give real meaning to our creed. </p>
+
+
+
+            <p>We, the people, still believe that every citizen deserves a basic measure of security
+               and dignity. We must make the hard choices to reduce the cost of health care and the
+               size of our deficit. But we reject the belief that America must choose between caring
+               for the generation that built this country and investing in the generation that will
+               build its future. (Applause.) For we remember the lessons of our past, when twilight
+               years were spent in poverty and parents of a child with a disability had nowhere to
+               turn. </p>
+
+
+
+            <p>We do not believe that in this country freedom is reserved for the lucky, or
+               happiness for the few. We recognize that no matter how responsibly we live our lives,
+               any one of us at any time may face a job loss, or a sudden illness, or a home swept
+               away in a terrible storm. The commitments we make to each other through Medicare and
+               Medicaid and Social Security, these things do not sap our initiative, they strengthen
+               us. (Applause.) They do not make us a nation of takers; they free us to take the
+               risks that make this country great. (Applause.) </p>
+
+
+
+            <p>We, the people, still believe that our obligations as Americans are not just to
+               ourselves, but to all posterity. We will respond to the threat of climate change,
+               knowing that the failure to do so would betray our children and future generations.
+               (Applause.) Some may still deny the overwhelming judgment of science, but none can
+               avoid the devastating impact of raging fires and crippling drought and more powerful
+               storms.</p>
+
+
+
+            <p>The path towards sustainable energy sources will be long and sometimes difficult. But
+               America cannot resist this transition, we must lead it. We cannot cede to other
+               nations the technology that will power new jobs and new industries, we must claim its
+               promise. That’s how we will maintain our economic vitality and our national treasure
+               -- our forests and waterways, our crop lands and snow-capped peaks. That is how we
+               will preserve our planet, commanded to our care by God. That’s what will lend meaning
+               to the creed our fathers once declared.</p>
+
+
+
+            <p>We, the people, still believe that enduring security and lasting peace do not require
+               perpetual war. (Applause.) Our brave men and women in uniform, tempered by the flames
+               of battle, are unmatched in skill and courage. (Applause.) Our citizens, seared by
+               the memory of those we have lost, know too well the price that is paid for liberty.
+               The knowledge of their sacrifice will keep us forever vigilant against those who
+               would do us harm. But we are also heirs to those who won the peace and not just the
+               war; who turned sworn enemies into the surest of friends -- and we must carry those
+               lessons into this time as well.</p>
+
+
+
+            <p> We will defend our people and uphold our values through strength of arms and rule of
+               law. We will show the courage to try and resolve our differences with other nations
+               peacefully –- not because we are naïve about the dangers we face, but because
+               engagement can more durably lift suspicion and fear. (Applause.)</p>
+
+
+
+            <p>America will remain the anchor of strong alliances in every corner of the globe. And
+               we will renew those institutions that extend our capacity to manage crisis abroad,
+               for no one has a greater stake in a peaceful world than its most powerful nation. We
+               will support democracy from Asia to Africa, from the Americas to the Middle East,
+               because our interests and our conscience compel us to act on behalf of those who long
+               for freedom. And we must be a source of hope to the poor, the sick, the marginalized,
+               the victims of prejudice –- not out of mere charity, but because peace in our time
+               requires the constant advance of those principles that our common creed describes:
+               tolerance and opportunity, human dignity and justice.</p>
+
+
+
+            <p>We, the people, declare today that the most evident of truths –- that all of us are
+               created equal –- is the star that guides us still; just as it guided our forebears
+               through Seneca Falls, and Selma, and Stonewall; just as it guided all those men and
+               women, sung and unsung, who left footprints along this great Mall, to hear a preacher
+               say that we cannot walk alone; to hear a King proclaim that our individual freedom is
+               inextricably bound to the freedom of every soul on Earth. (Applause.) </p>
+
+
+
+            <p>It is now our generation’s task to carry on what those pioneers began. For our
+               journey is not complete until our wives, our mothers and daughters can earn a living
+               equal to their efforts. (Applause.) Our journey is not complete until our gay
+               brothers and sisters are treated like anyone else under the law –- (applause) -- for
+               if we are truly created equal, then surely the love we commit to one another must be
+               equal as well. (Applause.) Our journey is not complete until no citizen is forced to
+               wait for hours to exercise the right to vote. (Applause.) Our journey is not complete
+               until we find a better way to welcome the striving, hopeful immigrants who still see
+               America as a land of opportunity -- (applause) -- until bright young students and
+               engineers are enlisted in our workforce rather than expelled from our country.
+               (Applause.) Our journey is not complete until all our children, from the streets of
+               Detroit to the hills of Appalachia, to the quiet lanes of Newtown, know that they are
+               cared for and cherished and always safe from harm.</p>
+
+
+
+            <p>That is our generation’s task -- to make these words, these rights, these values of
+               life and liberty and the pursuit of happiness real for every American. Being true to
+               our founding documents does not require us to agree on every contour of life. It does
+               not mean we all define liberty in exactly the same way or follow the same precise
+               path to happiness. Progress does not compel us to settle centuries-long debates about
+               the role of government for all time, but it does require us to act in our time.
+               (Applause.)</p>
+
+
+
+            <p>For now decisions are upon us and we cannot afford delay. We cannot mistake
+               absolutism for principle, or substitute spectacle for politics, or treat name-calling
+               as reasoned debate. (Applause.) We must act, knowing that our work will be imperfect.
+               We must act, knowing that today’s victories will be only partial and that it will be
+               up to those who stand here in four years and 40 years and 400 years hence to advance
+               the timeless spirit once conferred to us in a spare Philadelphia hall. </p>
+
+
+
+            <p>My fellow Americans, the oath I have sworn before you today, like the one recited by
+               others who serve in this Capitol, was an oath to God and country, not party or
+               faction. And we must faithfully execute that pledge during the duration of our
+               service. But the words I spoke today are not so different from the oath that is taken
+               each time a soldier signs up for duty or an immigrant realizes her dream. My oath is
+               not so different from the pledge we all make to the flag that waves above and that
+               fills our hearts with pride.</p>
+
+
+
+            <p>They are the words of citizens and they represent our greatest hope. You and I, as
+               citizens, have the power to set this country’s course. You and I, as citizens, have
+               the obligation to shape the debates of our time -- not only with the votes we cast,
+               but with the voices we lift in defense of our most ancient values and enduring
+               ideals. (Applause.)</p>
+
+
+
+            <p>Let us, each of us, now embrace with solemn duty and awesome joy what is our lasting
+               birthright. With common effort and common purpose, with passion and dedication, let
+               us answer the call of history and carry into an uncertain future that precious light
+               of freedom.</p>
+
+
+
+            <p>Thank you. God bless you, and may He forever bless these United States of America.
+               (Applause.)</p>
+         </div>
+      </body>
+   </text>
+</TEI>
