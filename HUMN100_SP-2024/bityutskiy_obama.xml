@@ -575,84 +575,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192817230",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-04T00:28:17.230Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/ndb008",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Nikita Bityutskiy"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192817230#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192817230#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[9]/note[3]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "oa:TextualBody",
-		"dc:format": "text/plain",
-		"rdf:value": "initiative"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303192919827",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T00:29:19.827Z",
@@ -689,85 +611,6 @@
 		"@type": "oa:TextualBody",
 		"dc:format": "text/plain",
 		"rdf:value": "initiative"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303195638962",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-04T00:56:38.962Z",
-	"dcterms:modified": "2024-03-04T00:56:38.962Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/ndb008",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Nikita Bityutskiy"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303195638962#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ndb008/courses/main/HUMN100_SP-2024/bityutskiy_obama.xml?note_annotation_20240303195638962#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[10]/note[2]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "oa:TextualBody",
-		"dc:format": "text/plain",
-		"rdf:value": "Looks to try to find unity within the nation"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5354,27 +5197,27 @@
                single person can train all the <persName>math and science teachers</persName> we’ll need to equip our
                children for the future, or build the roads and networks and research labs that will
                bring new jobs and businesses to our shores. Now, more than ever, we must do these
-               things together, as one nation and one people.<note type="annotation">initiative</note> (Applause.) </p>
+               things together, as one nation and one people.initiative </p>
 
 
 
             <p>This generation of <persName>Americans</persName> has been tested by crises that steeled our resolve and
-               proved our resilience. A decade of war is now ending. (Applause.) An economic
-               recovery has begun. (Applause.) America’s possibilities are limitless, for we possess
+               proved our resilience. A decade of war is now ending. An economic
+               recovery has begun. America’s possibilities are limitless, for we possess
                all the qualities that this world without boundaries demands: youth and drive<note type="annotation">initiative</note>;
                diversity and openness; an endless capacity for risk and a gift for reinvention. My
                fellow <persName>Americans</persName>, we are made for this moment, and we will seize it -- so long as we
-               seize it together.<note type="annotation">Looks to try to find unity within the nation</note> (Applause.) </p>
+               seize it together.Looks to try to find unity within the nation </p>
 
 
 
             <p>For we, the people, understand that our country cannot succeed <term cert="high" evaluate="all" type="saying" xml:space="default">when a shrinking few</term>
-               do very well and a growing many barely make it. (Applause.) We believe that <emph ana="search for a best scenario" cert="high" xml:space="default">America’s prosperity</emph> must rest upon the broad shoulders of <orgName type="citizens">a rising middle class</orgName>. We know that
+               do very well and a growing many barely make it. We believe that <emph ana="search for a best scenario" cert="high" xml:space="default">America’s prosperity</emph> must rest upon the broad shoulders of <orgName type="citizens">a rising middle class</orgName>. We know that
                <placeName key="United States of America" ref="http://www.wikidata.org/entity/Q30">America</placeName> thrives when every person can find independence and pride in their work; when
                the wages of honest labor liberate families from the brink of hardship.<note type="annotation">assertion</note> We are true
                to our creed when a little girl born into the bleakest poverty knows that she has the
                same chance to succeed as anybody else, because she is an <persName>American</persName>; she is free, and
-               she is equal, not just in the eyes of God but also in our own.<note type="annotation">what defines an American</note> (Applause.)</p>
+               she is equal, not just in the eyes of God but also in our own.<note type="annotation">what defines an American</note> </p>
 
 
 
